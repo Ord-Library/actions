@@ -18,7 +18,7 @@
     "@solana/actions": "^1.0.2",
     "sanctum-lst-list": "^0.2.13",
     "@solana/spl-token-registry": "^0.2.4574",
-    "@mercurial-finance/dynamic-amm-sdk": "^0.4.23",
+    "@mercurial-finance/dynamic-amm-sdk": "^1.0.0",
     "mathjs": "^13.0.0",
     "hono": "^4.4.7"
   },
